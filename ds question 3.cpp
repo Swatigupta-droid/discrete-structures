@@ -5,7 +5,7 @@ class relation
 {
 public:
     int n;
-    int m[5][5];
+    int** m;
    
     void getdata();
     void printdata();
@@ -18,6 +18,9 @@ void relation::getdata()
 {
     cout<<"Enter order of matrix"<<endl;
     cin>>n;
+    m=new int* [n];
+    for(int i=0;i<n;i++)
+    m[i]=new int[n];
     cout<<"Enter matrix of order "<<n<<endl;
     for(int i=0;i<n;i++)
     {
