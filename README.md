@@ -15,4 +15,7 @@ In this repository, you can find the solutions for the questions mentioned in Qu
 For contributions in this repository, please read CONTRIBUTION.md first. 
 (Please pull the changes from this repo if you have already forked the repository and are facing conflicts) If you like the repository, please star it.
 
-
+# :handshake: Our Contributors
+<a href="https://github.com/Swatigupta-droid/discrete-structures/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Swatigupta-droid/discrete-structures" />
+</a>
