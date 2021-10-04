@@ -6,6 +6,7 @@ This repository is mainly open to those who are looking to make some PR for the 
 In this repository, you can find the solutions for the questions mentioned in Questions.md
 
 # Why contribute to this repository
+* This repository is:
 * Beginner-friendly
 * Create your first Pull Request on GitHub
 * Chance of receiving a T-Shirt for participating in the Hacktoberfest
