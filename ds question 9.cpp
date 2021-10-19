@@ -56,34 +56,8 @@ void Insertionsort::sort()
 		cout<<endl;
 	}
 		cout<<"The total number of comparisons are "<<c<<endl;
-	
 }
-/*void Insertionsort::sort()
-{
-	int key,i,j,c=0;
-	for(j=1;j<n;j++)
-	{
-		key=arr[j];
-		i=j-1;
-		
-		while(i>=0)
-		{
-			c++;
-			if(arr[i]>key){
-						arr[i+1]=arr[i];
-						i=i-1;
-					}
-		}
-		
-		arr[i+1]=key;
-		cout<<"Intermediate result"<<endl;
-		for(int f=0;f<n;f++)
-			cout<<arr[f]<<" ";
-		cout<<endl;
-	}
-		cout<<"The total number of comparisons are "<<c<<endl;
-}
-*/
+
 int main()
 {
 	int size;
