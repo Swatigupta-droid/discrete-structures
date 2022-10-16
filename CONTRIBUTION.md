@@ -13,3 +13,9 @@
 2. [Using Pull Requests](https://help.github.com/articles/about-pull-requests/)
 3. [GitHub Help](https://help.github.com/)
 
+## 5 resources to start with opensource immediately
+1. GitHub Explore (https://github.com/explore/)
+2. Contributor Ninja (https://contributor.ninja/)
+3. First Contributions (https://firstcontributions.github.io/)
+4. Code Triage (https://www.codetriage.com/)
+5. Good First Issues (https://goodfirstissues.com/)
